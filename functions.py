@@ -1,6 +1,6 @@
 def box(a,b,c):
     sum = a + b + c
-    avg = sum/2
+    avg = sum/3
     print(avg)
     return avg
 
