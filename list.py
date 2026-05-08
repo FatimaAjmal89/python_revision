@@ -10,3 +10,13 @@ h.sort() #increasing
 h.sort(reverse=True)# decreasing
 h.reverse()
 
+#loops in list
+
+hh= [1,2,3,4,5,6,7]
+i=3
+count = 0
+for val in hh:
+    if(val == 3):
+        print(count)
+        break
+    count+=1
