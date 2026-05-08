@@ -19,3 +19,10 @@ print("the sum of {1} and {0} is {2}".format(h,f,sum))
 # value based formating
 print(" {1} and {0}".format(2,8))
 
+#f-strings
+k=800
+l=81
+sum2 = k+l
+
+print(f"the sum of {k} and {l} is {sum2} ")
+
